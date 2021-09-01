@@ -304,6 +304,7 @@ main {
 
     transition: 2s ease-in;
     opacity: 1;
+    overflow: hidden;
   }
   .nav_mobile a {
     font-family: 'Helvetica-Bold', sans-serif;
