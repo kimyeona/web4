@@ -291,7 +291,7 @@ main {
     position: fixed;
     right: 0;
     top: 0;
-    height: 95vh;
+    height: 100vh;
     width: 100%;
     background-color: #fff;
     display: inline-flex;
@@ -310,7 +310,7 @@ main {
     font-size: 22px;
     color: #000;
     display: inline-block;
-    padding-bottom: 30px;
+    padding-bottom: 26px;
     padding-right: 0px;
   }
   .sns_mobile {
@@ -324,13 +324,14 @@ main {
     flex-direction: row;
 
     background-color: #fff;
-    height: 10vh;
+    height: 83px;
     justify-content: center;
     align-items: center;
     border-top: 1.5px solid #ebebeb;
   }
   .sns_mobile li {
     margin: 0px 16px;
+    padding-top: 10px;
   }
 
 
